@@ -1,7 +1,7 @@
 # Note: copy/paste the YAML below into the editor at https://ergogen.cache.works/
 
 points:
-  # apply props to all keys
+  # apply props to all keys 
   key:
     padding: cy # global choc vertical spacing
     tags:
