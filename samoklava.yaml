@@ -196,7 +196,7 @@ outlines:
         fillet: 2
 
 pcbs:
-  elv:
+  board:
     outlines:
       board:
         outline: cutout
